@@ -11,7 +11,7 @@
     <quarkus.version>2.1.0.Final</quarkus.version>
     <kogito.version>1.10.0.Final</kogito.version>
     <surefire.version>3.0.0-M5</surefire.version>
-    <compiler.version>3.8.1</compiler.version>
+    <compiler.version>3.13.0</compiler.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>11</maven.compiler.release> 
